@@ -71,7 +71,7 @@ namespace DrawSheet
         private void button1_Click(object sender, EventArgs e)
         {
             //Form2..Close();
-
+            //check
             form2 = new Form2();
 
             _rectangularDataSorted.Clear();
