@@ -44,7 +44,6 @@ namespace DrawSheet
 
             for (int i = 0; i < _rectangularDataSorted.Count; i++)
             {
-                ;
 
                 if ((x + _rectangularDataSorted[i].Width) <= (xTotal - x))
                 {
